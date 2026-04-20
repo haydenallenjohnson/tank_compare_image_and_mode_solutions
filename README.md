@@ -1,0 +1,1 @@
+Code created to compare the solutions for propagation of sound in a rectangular tank obtained in three ways: 1) method of images, in the time domain; 2) method of images, with the summation done in the frequency domain; and 3) with a modal sum.
